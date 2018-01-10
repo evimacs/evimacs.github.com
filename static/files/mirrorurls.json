@@ -1,0 +1,8 @@
+{
+    "mirrors":[
+        {"url":"http://mirrors.ustc.edu.cn", "name":"中科大开源镜像", "type":"教育机构"},
+        {"url":"http://mirrors.aliyun.com", "name":"阿里云开源镜像", "type":"商业机构"},
+        {"url":"http://mirrors.tuna.tsinghua.edu.cn", "name":"清华大学开源镜像", "type":"教育机构"},
+        {"url":"http://mirrors.zzu.edu.cn", "name":"郑州大学开源镜像", "type":"教育机构"}
+    ]
+}
